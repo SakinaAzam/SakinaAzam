@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sakinaazam777@gmail.com**
 
-- ⚡ Fun fact **I think I am**
+- ⚡ Fun fact **I think I am Euphoria**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
