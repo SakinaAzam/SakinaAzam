@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakinaazam&label=Profile%20views&color=0e75b6&style=flat" alt="sakinaazam" /> </p>
 
-- 🔭 I’m currently working on [Candour Project](https://constant-goods-383415.uc.r.appspot.com/)
+- 🔭 I’m currently working on [Candor Project](https://constant-goods-383415.uc.r.appspot.com/)
 
 - 📫 How to reach me **sakinaazam777@gmail.com**
 
